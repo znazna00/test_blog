@@ -3,7 +3,7 @@
 * hello world 1
 * hello world 2
 
-![샘플이미지](../img/IRONWEI.jpg)
+![샘플이미지](img/IRONWEI.jpg)
 
 ```python
 print('hello')
