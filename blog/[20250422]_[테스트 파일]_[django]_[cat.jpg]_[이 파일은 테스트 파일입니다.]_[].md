@@ -3,7 +3,7 @@
 * hello world 1
 * hello world 2
 
-![샘플 이미지][img/IRON_WEI.jpg]
+![샘플 이미지][img/IRONWEI.jpg]
 
 ```python
 print('hello')
