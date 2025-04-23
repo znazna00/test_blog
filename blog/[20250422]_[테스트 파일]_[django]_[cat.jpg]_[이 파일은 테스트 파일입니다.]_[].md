@@ -6,7 +6,7 @@
 ![샘플 이미지](../img/IRON_WEI.jpg)
 
 ```python
-pring('hello')
+print('hello')
 ```
 
 ```py
